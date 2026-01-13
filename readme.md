@@ -40,7 +40,7 @@ Web Developer with hands-on experience in backend development, REST APIs, and da
 - 📬 Reach out to me - pavan.yadav.sde@gmail.com
 
 #### Technologies I've worked with
-- **Languages:** Python, Java, HTML, CSS, JavaScript, SQL
+- **Languages:** Python, Java, HTML, CSS, JavaScript/TypeScript, SQL
 - **Frameworks/Libraries:**  Django, Django REST Framework, Django Channels, Node, React, Flask, FastApi
 - **Others:** Git, Websockets, Redis, Docker , GCP
 
