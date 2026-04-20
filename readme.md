@@ -29,8 +29,9 @@
 
 ## Professional Summary
 
-Web Developer with hands-on experience in backend development, REST APIs, and database-driven applications. Strong foundation in Data Science concepts, data handling, and problem-solving. Experienced in Python-based frameworks and full-stack application development. Actively building scalable, real-world projects with clean architecture and performance-focused design.
-
+Software Engineer & ML practitioner specializing in LLM systems, backend engineering, and scalable ap-
+plications. Proven experience building end-to-end production systems with measurable impact, including 98%+
+ML accuracy. Drop mail if find  me  useful to make Systems in Fullstack / Backend / ML / AI systems.
 ### Welcome to my profile!
 
 - 🚀 Building scalable solutions to real-world problems
@@ -38,11 +39,13 @@ Web Developer with hands-on experience in backend development, REST APIs, and da
 - 💬 Ask me about Full-Stack Development & UI Design
 - 🤝 Open to collaboration on innovative projects
 - 📬 Reach out to me - pavan.yadav.sde@gmail.com
+-                       230180107045@gecdahod.com
+-                       24f1001768@ds.study.iitm.ac.in
 
 #### Technologies I've worked with
 - **Languages:** Python, Java, HTML, CSS, JavaScript/TypeScript, SQL
 - **Frameworks/Libraries:**  Django, Django REST Framework, Django Channels, Node, React, Flask, FastApi
-- **Others:** Git, Websockets, Redis, Docker , GCP
+- **Others:** Git, Websockets,Docker , GCP
 
 <!-- 
 **Languages**
