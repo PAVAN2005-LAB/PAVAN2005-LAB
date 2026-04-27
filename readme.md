@@ -40,7 +40,6 @@ ML accuracy. Drop mail if find  me  useful to make Systems in Fullstack / Backen
 - 🤝 Open to collaboration on innovative projects
 - 📬 Reach out to me - pavan.yadav.sde@gmail.com, 230180107045@gecdahod.com,24f1001768@ds.study.iitm.ac.in
                     
-
 #### Technologies I've worked with
 - **Languages:** Python, Java, HTML, CSS, JavaScript/TypeScript, SQL,PHP
 - **Frameworks/Libraries:**  Django, Django REST Framework, Django Channels, Node, React, Flask, FastApi
