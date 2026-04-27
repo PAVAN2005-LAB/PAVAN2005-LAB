@@ -39,8 +39,8 @@ ML accuracy. Drop mail if find  me  useful to make Systems in Fullstack / Backen
 - 💬 Ask me about Full-Stack Development & UI Design
 - 🤝 Open to collaboration on innovative projects
 - 📬 Reach out to me - pavan.yadav.sde@gmail.com
--                       230180107045@gecdahod.com
--                       24f1001768@ds.study.iitm.ac.in
+                      -  230180107045@gecdahod.com
+                      - 24f1001768@ds.study.iitm.ac.in
 
 #### Technologies I've worked with
 - **Languages:** Python, Java, HTML, CSS, JavaScript/TypeScript, SQL
