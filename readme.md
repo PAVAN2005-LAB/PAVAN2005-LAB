@@ -1,96 +1,101 @@
-### meetyou  later!
-<h3 align="center">Hi, I'm Pavan Kumar Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-<h4 align="center">Web developer with concept of Data Science </h4>
-<h4 align="center">My full name is *** Pavan Kumar Yadav ***, but I usually go by *** Pavan *** . </h4>
+<div align="center">
 
-<p align="center">
-<a href="[https://www.linkedin.com/in/gecdhd-comp-pavan-kumar-yadav/](https://www.linkedin.com/in/gecdhd-comp-pavan-kumar-yadav/)"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Pavan--Yadav-blue?logo=linkedin"/></a>
-<p>
-  <a href="https://www.linkedin.com/in/gecdhd-comp-pavan-kumar-yadav/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pavan%20Yadav-blue?logo=linkedin&logoColor=white" />
-  </a>
-</p>
+# Pavan Kumar Yadav
+**Software Engineer | Full Stack & Data Science Practitioner**
+*CS @ Government Engineering College, Dahod & BS @ Indian Institute of Technology Madras*
+*📍 Jamnagar, Gujarat, India*
 
+[Portfolio](https://pavan2005-lab.github.io/pavan_Portfolio/) • [LinkedIn](https://www.linkedin.com/in/pavan-kumar-yadav-634904363/) • [LeetCode](https://leetcode.com/u/OC6WwPL7IG/) • [Codeforces](https://codeforces.com/profile/pavan.yadav.27) • [MS Learn](https://learn.microsoft.com/en-us/users/pavankumaryadav-8932/) • [Blog](https://ppost.is-a.dev)
 
-<a href="mailto:pavan.yadav.sde@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/-pavan.yadav.sde%40gmail.com-red?logo=gmail&logoColor=white"></a>
-<a href="(https://github.com/PAVAN2005-LAB"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=PAVAN2005-LAB&label=Profile%20views&color=blue&style=flat"></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://pavan2005-lab.github.io/pavan_Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pavan%20Kumar%20Yadav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-kumar-yadav-634904363/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-OC6WwPL7IG-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/OC6WwPL7IG/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1189%20Pupil-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pavan.yadav.27)
+[![Microsoft Learn](https://img.shields.io/badge/MS%20Learn-Verified-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/pavankumaryadav-8932/)
 
-<img align="right" src="https://raw.githubusercontent.com/PAVAN2005-LAB/PAVAN2005-LAB/main/cat.gif">
-<p>
-  <a href="https://codeforces.com/profile/pavan.yadav.27">
-    <img src="https://img.shields.io/badge/Codeforces-pavan.yadav.27-blue?logo=codeforces&logoColor=white" />
-  </a>
+</div>
 
-  <a href="https://leetcode.com/u/Pavanslab_2005/">
-    <img src="https://img.shields.io/badge/LeetCode-Pavanslab__2005-orange?logo=leetcode&logoColor=white" />
-  </a>
-</p>
+---
 
-## Professional Summary
+### 🏛️ Executive Summary
 
-Software Engineer & ML practitioner specializing in LLM systems, backend engineering, and scalable ap-
-plications. Proven experience building end-to-end production systems with measurable impact, including 98%+
-ML accuracy. Drop mail if find  me  useful to make Systems in Fullstack / Backend / ML / AI systems.
-### Welcome to my profile!
+Software Engineer and Machine Learning practitioner specializing in **backend engineering**, **LLM agent systems**, **native desktop applications**, and **data analytics pipelines**. Final year CS undergraduate at **Government Engineering College, Dahod** (CGPA: 8.52) and pursuing a **BS in Data Science & Applications** from **IIT Madras** (CGPA: 7.04, 100% Python Score).
 
-- 🚀 Building scalable solutions to real-world problems
-- 🌱 Always learning and exploring new technologies
-- 💬 Ask me about Full-Stack Development & UI Design
-- 🤝 Open to collaboration on innovative projects
-- 📬 Reach out to me - pavan.yadav.sde@gmail.com, 230180107045@gecdahod.com,24f1001768@ds.study.iitm.ac.in
-                    
-#### Technologies I've worked with
-- **Languages:** Python, Java, HTML, CSS, JavaScript/TypeScript, SQL,PHP
-- **Frameworks/Libraries:**  Django, Django REST Framework, Django Channels, Node, React, Flask, FastApi
-- **Others:** Git, Websockets,Docker , GCP
+Proven track record building end-to-end production systems with verified impact, including a **Global Rank #740 in TCS CodeVita Season 13** and predictive ML models achieving **98.9%+ accuracy**.
 
-<!-- 
-**Languages**
+---
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C++" alt="C++" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">|<img title="Java" alt="Java" width="40px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png">|<img title="HTML" alt="HTML" width="40px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">|<img title="CSS" alt="CSS" width="40px" src="https://www.pngix.com/pngfile/big/193-1937198_image-result-for-css3-icon-css-logo-transparent.png">
-|--|--|--|--|--|--|
+### 📊 Highlights & Metrics
 
-**Frameworks/Libraries**
+| Benchmark | Value / Metric | Details |
+| :--- | :--- | :--- |
+| **TCS CodeVita Season 13** | **Global Rank #740** | Verified global competitive programming rank |
+| **TCS CodeVita Season 12** | **Global Rank #4918** | Global competitive programming season rank |
+| **GEC Dahod Engineering** | **8.52 CGPA** | B.Tech Computer Science & Engineering (Final Year) |
+| **IIT Madras Data Science** | **7.04 CGPA (100% Python)** | BS in Data Science & Applications |
+| **Problem Solving** | **200+ Solved** | LeetCode (`OC6WwPL7IG`), Codeforces Max Pupil (`1189`) |
+| **Industry Internships** | **Azure / IBM SkillsBuild** | CloudThat (Azure) & IBM SkillsBuild x CSRBOX Intern |
+| **Location** | **Jamnagar, Gujarat, India** | Open for remote & on-site opportunities |
 
-<img title="Django" alt="Django" height="30px" src="https://twilio-cms-prod.s3.amazonaws.com/original_images/django-dark.png">|<img title="Django Rest Framework" alt="DRF" width="45px" src="https://storage.googleapis.com/cw-p1w5jpim0sdhkccw8gr/media/blog-images/drf-logo2.png">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">|<img title="Node" alt="Node" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">|<img title="Bootstrap" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png">
-|--|--|--|--|--|
-<img title="Flask" alt="Flask" height="40px" src="https://miro.medium.com/max/438/1*0G5zu7CnXdMT9pGbYUTQLQ.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://res.cloudinary.com/penname/image/fetch/https://miro.medium.com/max/570/1*QR2SBNwG75LyY5uwqWpN3A.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png">|<img title="JavaFX" alt="JavaFX" width="40px" src="https://static.wixstatic.com/media/2724b2_a4c660815dde4271be00cb7e9b9cae2c~mv2.png/v1/fit/w_605%2Ch_533%2Cal_c/file.png">|<img title="Socket.io" alt="Socket.io" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg">
+---
 
-**Hosting & Deployment**
+### 💻 Core Competencies & Technical Matrix
 
-|<img title="cPanel" alt="cPanel" width="40px" src="https://cloudfitters.com/wp-content/uploads/2020/10/371-3713175_cpanel-hosting-customer-solution-icon.jpg">|<img title="Python Anywhere" alt="Python Anywhere" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOXKdQMsGfjwn9UiAo6xmwNLWa7YO9qYFpWUlMc2YBlfhwEA6SN1Q-BtPd3f-jUmgqjw&usqp=CAU">|<img title="Netlify" alt="Netlify" width="40px" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png">
-|--|--|--|--|
+```
+┌───────────────────────────┬────────────────────────────────────────────────────────────────────────┐
+│ Category                  │ Stack / Tooling                                                        │
+├───────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ Languages                 │ Python, Go (Golang), JavaScript / TypeScript, Java, C, SQL, HTML5/CSS3  │
+│ Backend & Web             │ Node.js, Express.js, Django, Django REST Framework, FastAPI, Wails v2  │
+│ AI / ML & Data Science    │ LangGraph, Gemini API, XGBoost, Scikit-Learn, Pandas, NumPy, Power BI  │
+│ Cloud & Infrastructure    │ Microsoft Azure, Docker, PostgreSQL, MongoDB, MySQL, Git, GCP          │
+└───────────────────────────┴────────────────────────────────────────────────────────────────────────┘
+```
 
-**Databases**
+---
 
-<img title="SQL" alt="SQL" width="60px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">|<img title="MongoDB" alt="MongoDB" height="30px" src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png">|<img title="Cloud Firestore" alt="Cloud Firestore" width="40px" src="https://raw.githubusercontent.com/jovotech/jovo-marketplace/master/thumbnails/jovo-db-firestore.png"> <br>
-|--|--|--|
+### 🚀 Key Engineering Projects
 
-**Other**
+#### 🤖 [SortMind AI — Native Desktop AI Organizer](https://github.com/PAVAN2005-LAB/-SortMind-AI)
+* **Architecture**: Go 1.22+ • Wails v2 • Gemini API • OpenAI API • Local Ollama Engine
+* **Impact**: Lightweight native desktop app (<12 MB binary) that categorizes messy folder structures into structured directories. Supports 100% offline local Ollama models for private, zero-latency organization.
 
-<img title="Linux" alt="Linux" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">|<img title="Git" alt="Git" width="40px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4">
-|--|--|
-<br>
+#### ⚡ [Techfest2k26 — Full Stack Event Platform](https://github.com/PAVAN2005-LAB/Techfest2k26)
+* **Architecture**: Node.js • Express.js • PostgreSQL • Razorpay API • Nodemailer
+* **Impact**: Event management engine featuring real-time registrations, Razorpay payment processing, automated transactional email dispatch, and live production APIs ([Live Demo](https://techfest2k26.onrender.com)).
 
-Thanks for visiting! I'd love to [connect](https://www.linkedin.com/in/gecdhd-comp-pavan-kumar-yadav/)!
+#### 📚 [GED Dahod Library System](https://github.com/PAVAN2005-LAB/GED_Dahod_library)
+* **Architecture**: Python • Django REST Framework • Docker • Waitress • JWT Auth
+* **Impact**: Production Library Management System actively deployed on local college network. Built with JWT authentication, bulk CSV data ingestion, and containerized WSGI server deployment.
 
+#### 🧩 [Autonomous Quiz Solver Agent](https://github.com/PAVAN2005-LAB/TDS_P2_SEP_2025)
+* **Architecture**: Python • LangGraph • LangChain • Playwright • Gemini API • FastAPI
+* **Impact**: Autonomous AI agent runner capable of multi-step reasoning, web scraping, dynamic code execution, and automated evaluation submissions.
 
-Contact: **pavan.yadav.sde@gmail.com**
+#### 📊 [Energy Consumption Predictive ML](https://github.com/PAVAN2005-LAB/Energy_Consumption_Analysis)
+* **Architecture**: Python • XGBoost • Scikit-Learn • Pandas • Matplotlib • Seaborn
+* **Impact**: End-to-end machine learning pipeline analyzing IEA building-level electricity datasets, achieving **98.9% classification accuracy** for demand forecasting.
 
+---
 
-## 🚀 Featured Projects
+### 📈 GitHub Engineering Activity
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PAVAN2005-LAB&show_icons=true&theme=dark&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=a1a1aa&bg_color=09090b" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAVAN2005-LAB&layout=compact&theme=dark&hide_border=true&title_color=2563eb&text_color=a1a1aa&bg_color=09090b" width="48%" alt="Top Languages" />
+</div>
 
-<a href="https://electronhubsamsung.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/E%20Commerce-00A2FF?style=for-the-badge&logo=javascript&logoColor=white" />
-</a>
+---
 
-<a href="https://akashmaurya.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-ff007f?style=for-the-badge&logo=html5&logoColor=white" />
-</a>
+### 📬 Direct Contact & Credentials
 
-</p>
+- 🌐 **Portfolio**: [pavan2005-lab.github.io/pavan_Portfolio/](https://pavan2005-lab.github.io/pavan_Portfolio/)
+- 📧 **Personal Email**: `pavan.yadav.sde@gmail.com`
+- 🎓 **IIT Madras Email**: `24f100168@ds.study.iitm.ac.in`
+- 🏫 **GEC Dahod Email**: `230180107045@gecdahod.ac.in`
+- 💼 **LinkedIn**: [linkedin.com/in/pavan-kumar-yadav-634904363/](https://www.linkedin.com/in/pavan-kumar-yadav-634904363/)
+- 🏅 **Credly Credentials**: [credly.com/users/pavan-kumar-yadav](https://www.credly.com/users/pavan-kumar-yadav.dfc9a477/badges#credly)
 
-
+<div align="center">
+  <sub>© Pavan Kumar Yadav. All rights reserved.</sub>
+</div>
